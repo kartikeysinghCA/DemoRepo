@@ -1,0 +1,19 @@
+Issues:
+
+1. (Device) Bad pinch zoom experience
+2. Clicking on active icon on dock doesn't minimize it
+3. Horrible split screen feature (Nothing like Win<, or even drag and put)
+4. Menubar always showing
+5. To move icons in topbar we've to hold command
+6. Hard to find path when in finder (no address bar)
+7. Windows enter cmd in path terminal will open in it
+8. Pressing X doesn't closes it fully (still in RAM)
+9. (Device) No USB-A Port
+10.Delete button doesn't delete cmmd+delete does (Coz it works as backspace)
+11.Cannot change mouse pointer
+12.Activity Monitor (Cheap Task Manager) has no shortcut like Ctrl+Shift+Esc
+13.SS is not saved on clipboard
+14.Fullscreen is Cmmd+Ctrl+F unlike F11
+15.Flushing dns in windows (/flushdns) while on mac (sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder)
+16.Return key does not open files but renames it.
+17. Exit command doesn't exit the terminal
